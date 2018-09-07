@@ -1,0 +1,1 @@
+document.write("<link type=\"text/css\" rel=\"stylesheet\" href=\"Formlet.css\"></link>\r\n<script src=\"/js/tiny_mce/tiny_mce.js\" type=\"text/javascript\" charset=\"UTF-8\"></script><script src=\"https://code.jquery.com/jquery-3.1.1.min.js\" type=\"text/javascript\" charset=\"UTF-8\"></script>")
